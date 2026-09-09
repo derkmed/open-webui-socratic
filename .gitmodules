@@ -1,0 +1,3 @@
+[submodule "socratic"]
+	path = socratic
+	url = https://github.com/derkmed/socratic.git
